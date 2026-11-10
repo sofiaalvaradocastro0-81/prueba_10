@@ -1,4 +1,4 @@
 # prueba_10
 RepositorioCCPuris
 
-Autor: Sofía Alvarado Castro
+**Autor**: Sofía Alvarado Castro
